@@ -1,0 +1,6 @@
+*.pyc
+
+*.pak
+*.bak
+
+devtools_resources/
